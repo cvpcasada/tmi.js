@@ -1,6 +1,6 @@
 {
   "name": "@cvpcasada/tmi.js",
-  "version": "1.3.2",
+  "version": "1.3.3",
   "description": "Javascript library for the Twitch Messaging Interface.",
   "keywords": [
     "tmi",
